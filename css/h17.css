@@ -1,0 +1,119 @@
+.biru {
+    background: -webkit-gradient(linear, left top, right top, from(#ffffff), to(rgba(230, 0, 196, 0.88)));
+    background: -webkit-linear-gradient(left, #ffffff, rgba(230, 0, 196, 0.88));
+    background: -o-linear-gradient(left, #ffffff, rgba(230, 0, 196, 0.88));
+    background: linear-gradient(to right, #ffffff, rgba(230, 0, 196, 0.88));
+}
+
+.bg2 {
+    background: -webkit-gradient(linear, right bottom, left top, from(rgba(247, 170, 29, 0.86)), to(rgba(255, 0, 217, 0.75)));
+    background: -webkit-linear-gradient(bottom right, rgba(247, 170, 29, 0.86), rgba(255, 0, 217, 0.75));
+    background: -o-linear-gradient(bottom right, rgba(247, 170, 29, 0.86), rgba(255, 0, 217, 0.75));
+    background: linear-gradient(to top left, rgba(247, 170, 29, 0.86), rgba(255, 0, 217, 0.75));
+}
+
+.gradient {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(112, 0, 139, 0.84)), to(rgba(255, 0, 217, 0.75)));
+    background: -webkit-linear-gradient(top, rgba(112, 0, 139, 0.84), rgba(255, 0, 217, 0.75));
+    background: -o-linear-gradient(top, rgba(112, 0, 139, 0.84), rgba(255, 0, 217, 0.75));
+    background: linear-gradient(to bottom, rgba(112, 0, 139, 0.84), rgba(255, 0, 217, 0.75));
+    width: 100%;
+    height: 100vh;
+}
+
+.hero {
+    width: 100%;
+    height: 100vh;
+    background: url(../images/hero2.jpg);
+    background-size: cover;
+}
+
+.hero img {
+    width: 100%;
+}
+
+.hero bulet {
+    border-radius: 17px;
+}
+
+.hero .text-demo {
+    width: 100%;
+    height: 90vh;
+}
+
+i {
+    font-size: 1.5em;
+    padding-right: 20px;
+    font-family: sans-serif;
+}
+
+.link {
+    display: inline;
+}
+
+.max-width {
+    width: 100%;
+}
+
+.countdown {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+
+.countdown-item {
+    font-size: 64px;
+    line-height: 1.2;
+}
+
+.countdown-text {
+    font-size: 14px;
+}
+
+.countdown-separator {
+    font-size: 36px;
+    margin: 0 20px;
+}
+
+#demo {
+    font-size: 2em;
+    color: #191919;
+}
+
+.transfarent {
+    background-color: rgba(255, 255, 255, 0.53);
+}
+
+.full img {
+    width: 100%;
+    height: 100%;
+}
+
+.tinggi150 {
+    margin-top: 150px;
+}
+
+.fotter {
+    margin-top: 30px;
+    padding-top: 20px;
+    border-top: 1px dashed #646565;
+}
+
+.fotter i {
+    font-size: 1em;
+    padding: 10px;
+}
+
+.fotter-menu {
+    font-size: 1em;
+}
+
+.fotter-menu p.atas {
+    padding-top: 20px;
+}
